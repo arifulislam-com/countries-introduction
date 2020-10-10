@@ -1,0 +1,19 @@
+.Coumtry{
+    text-align: center;
+    border: 1px solid purple;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 50px;
+}
+.Coumtry img{
+    width: 300px;
+}
+.Coumtry button{
+    background-color: purple;
+    color: white;
+    width: 200px;
+    font-size: 20px;
+    height: 30px;
+    border-radius: 7px;
+    cursor: pointer;
+}
